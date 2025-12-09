@@ -12,7 +12,7 @@ Directory overview
 - `Figure2/` – UMAP visualisation of ESM VP1 embeddings.
 - `Figure3/` – Cluster-distance calculations and k-nearest-neighbour host prediction analysis.
 - `Figure4_5/` – AlphaFold-predicted VP1 structures, loop (residues 300–420) analyses, and APBS electrostatic potential inputs.
-- `fold/` – AlphaFold Server output for VP1 models from the GPV, transition, and MDPV lineages (top 5 models, JSON metadata, MSAs, and templates).
+- `Fold/` – AlphaFold Server output for VP1 models from the GPV, transition, and MDPV lineages (top 5 models, JSON metadata, MSAs, and templates).
 - `Scripts/` – Core analysis scripts used to generate the figures (Python, shell, and PyMOL).
 - `environment.yml` – Conda environment used for all analyses.
 
